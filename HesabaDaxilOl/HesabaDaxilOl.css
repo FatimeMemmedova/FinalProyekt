@@ -1,0 +1,22 @@
+.Containtop {
+  margin-top: 10px;
+  padding: 10px;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.Contain {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.IstifadeciAdi {
+  margin-top: 5px;
+}
+
+.MainSon {
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+  margin-top: 25px;
+  padding: 10px;
+}
